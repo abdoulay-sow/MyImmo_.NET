@@ -1,0 +1,6 @@
+@Abdoulaye.MyImmo.WebApi_HostAddress = http://localhost:5236
+
+GET {{Abdoulaye.MyImmo.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
